@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+anytime_cifar10_2
+anytime_cifar100
+results
+output
